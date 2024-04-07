@@ -1,0 +1,118 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Pizza Hut",
+      "address": "Hyderabad",
+      "rating": "4.5",
+      "email": "pizzahut@test.com",
+      "file": "blob:http://localhost:3000/a40a88c5-b47b-41f4-88cf-1a16207adef9"
+    },
+    {
+      "id": 3,
+      "name": "Santosh Daba",
+      "address": "Hyderabad",
+      "rating": "4.5",
+      "email": "santoshdaba@test.com",
+      "file": "blob:http://localhost:3000/a40a88c5-b47b-41f4-88cf-1a16207adef9"
+    },
+    {
+      "id": 4,
+      "name": "Rayaseema Ruchulu",
+      "address": "Madapur",
+      "rating": "4.5",
+      "email": "rayaseemaruchulu@test.com",
+      "file": "blob:http://localhost:3000/a40a88c5-b47b-41f4-88cf-1a16207adef9"
+    },
+    {
+      "id": 7,
+      "name": "ddddd",
+      "address": "viz",
+      "rating": "5",
+      "email": "ddd@gmial.com",
+      "file": "blob:http://localhost:3000/f096e590-f646-4f73-bd2e-25c00aa2a170"
+      
+    },
+    {
+      "id": 10,
+      "name": "ddddd",
+      "address": "viz",
+      "rating": "4",
+      "email": "ddd@gmial.com",
+      "file": "blob:http://localhost:3000/a4ffac3c-84de-477f-83cb-7bd5f32902b0"
+     
+    },
+    {
+      "id": 34,
+      "name": "www",
+      "address": "hyd",
+      "rating": "3",
+      "email": "www@gmail.com",
+      "file": "blob:http://localhost:3000/31815857-e501-4ea3-80e8-17d35a9a76c6"
+     
+    },
+    {
+      "id": 12,
+      "name": "wqer",
+      "address": "delhi",
+      "rating": "5",
+      "email": "wewe@gmail.com",
+      "file": "blob:http://localhost:3000/f34cf2c6-06cd-49f7-a2df-2de3ae900701"
+     
+    },
+    {
+      "id": 13,
+      "name": "wqer",
+      "address": "delhi",
+      "rating": "5",
+      "email": "wewe@gmail.com",
+      "file": "blob:http://localhost:3000/f34cf2c6-06cd-49f7-a2df-2de3ae900701"
+     
+    },
+    {
+      "id": 14,
+      "name": "wqer",
+      "address": "delhi",
+      "rating": "5",
+      "email": "wewe@gmail.com",
+      "file": "blob:http://localhost:3000/f34cf2c6-06cd-49f7-a2df-2de3ae900701"
+    
+    },
+    {
+      "id": 15,
+      "name": "wqer",
+      "address": "delhi",
+      "rating": "5",
+      "email": "wewe@gmail.com",
+      "file": "blob:http://localhost:3000/f34cf2c6-06cd-49f7-a2df-2de3ae900701"
+    
+    },
+    {
+      "id": 16,
+      "name": "wqer",
+      "address": "delhi",
+      "rating": "5",
+      "email": "wewe@gmail.com",
+      "file": "blob:http://localhost:3000/f34cf2c6-06cd-49f7-a2df-2de3ae900701"
+   
+    },
+    {
+      "id": 17,
+      "name": "wqer",
+      "address": "delhi",
+      "rating": "5",
+      "email": "wewe@gmail.com",
+      "file": "blob:http://localhost:3000/f34cf2c6-06cd-49f7-a2df-2de3ae900701"
+     
+    },
+    {
+      "id": 18,
+      "name": "wqer",
+      "address": "delhi",
+      "rating": "5",
+      "email": "wewe@gmail.com",
+      "file": "blob:http://localhost:3000/f34cf2c6-06cd-49f7-a2df-2de3ae900701"
+     
+    }
+  ]
+}

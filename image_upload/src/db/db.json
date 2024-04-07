@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Rice",
+      "qty": "25",
+      "price": "1300",
+      "file": "blob:http://localhost:3000/a40a88c5-b47b-41f4-88cf-1a16207adef9"
+    },
+    {
+      "id": "2",
+      "name": "sai",
+      "qty": "30",
+      "price": "300",
+      "file": "blob:http://localhost:3000/97f7fea9-8b44-47c3-a72d-7284a77636f8"
+    },
+    {
+      "id": "3",
+      "name": "Yeswanthpur",
+      "qty": "25",
+      "price": "1300",
+      "file": "blob:http://localhost:3000/068c5cdb-7089-49d3-956b-fbc612d95fc9"
+    },
+    {
+      "id": "4",
+      "name": "sdfa",
+      "qty": "32",
+      "price": "43534",
+      "file": "blob:http://localhost:3000/52e2358e-4e88-4203-bfce-40a596980adf"
+    },
+    {
+      "id": "6",
+      "name": "flower",
+      "qty": "45",
+      "price": "34",
+      "file": "blob:http://localhost:3000/089765fd-505e-42d2-aa6c-2e57a7caf134"
+    },
+    {
+      "id": "7",
+      "name": "5ttt",
+      "qty": "56",
+      "price": "45",
+      "file": "blob:http://localhost:3000/4e214eea-808b-4f0e-a82f-e1eb592fc066"
+    },
+    {
+      "id": "9",
+      "name": "ewew",
+      "qty": "2",
+      "price": "3",
+      "file": "blob:http://localhost:3000/86388066-2b1a-4c37-8fbf-b8bfd6dbc1bf"
+    }
+  ]
+}

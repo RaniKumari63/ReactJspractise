@@ -1,0 +1,2 @@
+export const SET_ALL_STUDENTS="SET_ALL_STUDENTS";
+export const ADD_STUDENT="ADD_STUDENT";

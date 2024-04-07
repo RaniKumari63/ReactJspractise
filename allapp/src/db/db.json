@@ -1,0 +1,54 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "email": "aaa@gmail.com",
+            "password": "aaaa@111",
+            "type": "user"
+        },
+        {
+            "id": 2,
+            "email": "bbb@gmail.com",
+            "password": "bbbb@111",
+            "type": "admin"
+        },
+        {
+            "id": 3,
+            "email": "ccc@gmail.com",
+            "password": "cccc@111",
+            "type": "customer"
+        },
+        {
+            "id": 4,
+            "email": "ddd@gmail.com",
+            "password": "dddd@111",
+            "type": "user"
+        }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "name": "aaaa",
+            "eemail": "aaa@gmail.com",
+            "mobile": 32435435
+        },
+        {
+            "id": 2,
+            "name": "bbbb",
+            "eemail": "bbb@gmail.com",
+            "mobile": 5435345
+        },
+        {
+            "id": 3,
+            "name": "cccc",
+            "eemail": "cccc@gmail.com",
+            "mobile": 32535435
+        },
+       {
+            "id": 4,
+            "name": "ddddd",
+            "eemail": "ddd@gmail.com",
+            "mobile": 32435435
+        }
+    ]
+}

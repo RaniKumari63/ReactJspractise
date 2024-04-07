@@ -1,0 +1,25 @@
+{
+    "students":[
+        {
+           "id":1,
+           "name":"abc",
+           "email":"abc@gmail.com",
+           "mobile":"122222",
+            "course":"reactjs"
+        },
+        {
+            "id":2,
+            "name":"bbbb",
+            "email":"bbbb@gmail.com",
+            "mobile":"45454",
+             "course":"reactjs"
+         },
+         {
+            "id":3,
+            "name":"ccc",
+            "email":"ccc@gmail.com",
+            "mobile":"545454",
+             "course":"reactjs"
+         }
+    ]
+}
